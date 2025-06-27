@@ -8,8 +8,8 @@ This project provides a visual analysis of the **Index of Economic Freedom** usi
 
 ## 🚀 Live Demo
 
-🔗 [**View Tableau Dashboard**]((https://public.tableau.com/views/MyDashboards_17509586290130/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  
-🔗 [**View Tableau Story**]((https://public.tableau.com/views/MyStory_17509593255230/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+🔗 [**View Tableau Dashboard**](https://public.tableau.com/views/MyDashboards_17509586290130/Dashboard1)  
+🔗 [**View Tableau Story**](https://public.tableau.com/views/MyStory_17509593255230/Story1)
 
 ---
 
